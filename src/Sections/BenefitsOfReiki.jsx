@@ -1,4 +1,3 @@
-import { FaLeaf, FaHeart, FaHandHoldingMedical } from "react-icons/fa";
 import ImageEmotional from "../assets/icons/reiki.png";
 import ImagePhysical from "../assets/icons/self-love.png";
 import ImageChakras from "../assets/icons/chakras.png";
