@@ -5,7 +5,6 @@ import BenefitsOfReiki from "./Sections/BenefitsOfReiki";
 import ReikiServices from "./Sections/ReikiServices";
 import Testimonials from "./Sections/Testimonials";
 import MeetThePractitioner from "./Sections/MeetThePractitioner";
-import BookASession from "./Sections/BookASession";
 import FAQ from "./Sections/FAQ";
 import Footer from "./Sections/Footer";
 
@@ -22,7 +21,6 @@ function App() {
         <ReikiServices />
         <Testimonials />
         <MeetThePractitioner />
-        <BookASession />
         <FAQ />
         <Footer />
       </div>
